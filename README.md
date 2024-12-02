@@ -25,7 +25,7 @@ The goal of this project is to implement:
 If you have git, use this code:
 ```shell
 git clone https://github.com/dolrie23/Dicoding-Clustering-and-Classification-Final-Project.git
-cd Bike-Sharing-Analysis-Dicoding
+cd Dicoding-Clustering-and-Classification-Final-Project
 ```
 or just install manually from download button above.
 
